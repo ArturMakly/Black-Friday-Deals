@@ -255,6 +255,11 @@ Fairly split your bill with friends at restaurants so everyone pays the correct 
 <p>&nbsp;</p>
 
 ## 📌 Productivity Software
+
+### 💰 [VisualSitemaps](https://visualsitemaps.com) - 33% OFF all Annual plans with code **VISUALFRIDAY-33-OFF-ANNUAL**
+
+Autogenerate VisualSitemaps in Seconds. Plan Content. Create Flows. Track Competitors.
+
 ### 💸 [BoltAI](https://boltai.com?ref=bfdeals) - 30% OFF with code **BFCM2024**
 
 Access all AI models in one native Mac app: Advanced Voice Mode, Document Analysis, AI Plugins, and more.
